@@ -1,0 +1,30 @@
+{
+    "years": 18,
+    "text": "One may speculate that over the course of time certain letters were added or deleted at various positions within the text.",
+    "srtext": "Empower businesses to thrive in the era of Industry 4.0. With most countries lacking a unified global legal framework, navigating the dynamic landscape of data and technology requires expert guidance. We offer cutting-edge techniques to transform your data into actionable metrics using top cloud tools in SaaS services.",
+    "feats": [{
+            "bg": "img/works/crv/c1.jpg",
+            "numb": "",
+            "title": "Blockchain Features.",
+            "type": "Mining Cryptocurrencies"
+        },
+        {
+            "bg": "img/works/crv/c2.jpg",
+            "numb": "",
+            "title": "Industries 4.0 Features.",
+            "type": "Data Analitics"
+        },
+        {
+            "bg": "img/works/crv/c3.jpg",
+            "numb": "",
+            "title": "Legal Exchange support.",
+            "type": "ICO / IEO / IDO / STO"
+        },
+        {
+            "bg": "img/works/crv/c4.jpg",
+            "numb": "",
+            "title": "24 / 7 Support.",
+            "type": "Solar Energy Project"
+        }
+    ]
+}

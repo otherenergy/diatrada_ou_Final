@@ -1,0 +1,19 @@
+[{
+        "number": 42,
+        "operator": "",
+        "titleTop": "Satisfied",
+        "titleBottom": "Customers"
+    },
+    {
+        "number": 99,
+        "operator": "%",
+        "titleTop": "Positive",
+        "titleBottom": "Feedback"
+    },
+    {
+        "number": "162",
+        "operator": "",
+        "titleTop": "Complete Projects",
+        "titleBottom": "In 10 Country"
+    }
+]

@@ -1,0 +1,19 @@
+[{
+        "numb": "01",
+        "icon": "pe-7s-mouse",
+        "title": "Research Project",
+        "details": "Comprehensive Support from initial concept."
+    },
+    {
+        "numb": "02",
+        "icon": "pe-7s-rocket",
+        "title": "Targeting",
+        "details": "Innovative Solutions to streamline processes."
+    },
+    {
+        "numb": "03",
+        "icon": "pe-7s-like2",
+        "title": "Result",
+        "details": "Expert Guidance to your project's success."
+    }
+]

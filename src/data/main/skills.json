@@ -1,0 +1,27 @@
+{
+    "feedback": {
+        "stars": 5,
+        "percentage": 100,
+        "users": [
+            "img/testimonials/c1.jpg",
+            "img/testimonials/c2.jpg",
+            "img/testimonials/c3.jpg"
+        ]
+    },
+    "numbers": [{
+            "value": "32",
+            "title": "Blockchain Web3 Projects",
+            "class": "one"
+        },
+        {
+            "value": "112",
+            "title": "Data Analitics Projects",
+            "class": "two"
+        },
+        {
+            "value": "18",
+            "title": "Blockchain Mining Projects",
+            "class": "three"
+        }
+    ]
+}

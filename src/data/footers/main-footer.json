@@ -1,0 +1,42 @@
+{
+    "social_links": {
+        "facebook": "https://www.facebook.com/",
+        "twitter": "https://twitter.com/",
+        "youtube": "https://www.youtube.com/"
+    },
+    "links": [{
+            "title": "Company",
+            "url": "/#"
+        },
+        {
+            "title": "Team",
+            "url": "/#"
+        },
+        {
+            "title": "Services",
+            "url": "/#"
+        },
+        {
+            "title": "Products",
+            "url": "/#"
+        }
+    ],
+    "recent_posts": [{
+            "url": "/#",
+            "image": "img/blog/c3.jpg",
+            "title": "How to check the website before releasing it?"
+        },
+        {
+            "url": "/#",
+            "image": "img/blog/c1.jpg",
+            "title": "How to check the website before releasing it?"
+        }
+    ],
+    "address": "USA — 19266 Coastal Hwy, Rehoboth Beach, Delaware",
+    "email": "admin@cleanstarenergyusa.com",
+    "phone": "+1(302)612-8648",
+    "theme_author": {
+        "name": "CleanStarEnergyLLC",
+        "url": "https://cleanstarenergyusa.com/"
+    }
+}
