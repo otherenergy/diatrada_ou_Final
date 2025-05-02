@@ -20,8 +20,8 @@ const Header = () => {
               <div className="sub-head radius mb-10">
                 <span>Amazing design services</span>
               </div>
-              <h1 className="fw-700">Grow Your Business With Us.</h1>
-              <p>Our designers stay ahead of the curve to provide engaging and user-friendly website designs to make your business stand out.</p>
+              <h1 className="fw-700">Blockchain with our data analytics is inevitable for your business.</h1>
+              <p>Unlock the Future of Finance with Our Expert Electronic Money Licensing and Blockchain Solutions.</p>
 
               <div className="mt-40 flex">
                 <div>

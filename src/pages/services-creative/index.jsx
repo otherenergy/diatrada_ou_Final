@@ -34,7 +34,7 @@ const ServicesCreative = () => {
   return (
     <>
       <Head>
-        <title>Ravo - Services Creative</title>
+        <title>Diatrada - Services Creative</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">
@@ -45,7 +45,7 @@ const ServicesCreative = () => {
           <Services />
           <SecHalf />
           <States />
-          <Testimonials />
+          {/* <Testimonials /> */}
           <Clients />
           <CallAction />
           <Blog />

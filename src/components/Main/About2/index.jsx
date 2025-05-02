@@ -35,9 +35,9 @@ const About = () => {
               <div className="sub-head radius mb-20">
                 <span className="fz-12 ls2 text-u">Highly expertise</span>
               </div>
-              <h3 className="mb-20 fz-38 fw-700">Start building stunning websites with us.</h3>
+              <h3 className="mb-20 fz-38 fw-700">Diatrada Group.</h3>
               <p>
-                Morbi sagittis hendrt nulla ultricies. Cras en diam ips elementum pretium hendrerit ultricies. Lorem Ipsum is simply dummy text of the printing and typesetting has been the industry’s
+              Where we specialize in propelling your blockchain and cryptocurrency projects to new heights
               </p>
               <div className="flex mt-50">
                 <div className="item flex full-width">

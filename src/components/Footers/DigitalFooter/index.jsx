@@ -26,7 +26,7 @@ const Footer = ({ footerClass, type }) => {
             </div>
             <div className="col-lg-5 valign">
               <div className="call-button full-width d-flex justify-content-end">
-                <a href="#0" className="butn butn-md bg-light radius-30">
+                <a href="contact-creative" className="butn butn-md bg-light radius-30">
                   <span className="text text-dark slide-up">Get Started</span>
                   <span className="text text-dark slide-down">Get Started</span>
                 </a>
@@ -46,7 +46,7 @@ const Footer = ({ footerClass, type }) => {
                 </a>
               </div>
               <div className="text">
-                <p>Stay ahead in the rapidly evolving world and Benefit from our team with extensive experience and expertise.</p>
+                <p>Always be ready and prepare for changes and the advancements of tech and involved every second.</p>
               </div>
               <div className="social circle-bord mt-30">
                 <ul className="rest horizontal-link">
@@ -130,7 +130,7 @@ const Footer = ({ footerClass, type }) => {
             <div className="col-lg-6">
               <div className="copyrights d-flex justify-content-end">
                 <p className="fz-13">
-                  © 2025 Clean Star Energy llc is Proudly Powered by 
+                  © 2025 Diatrada OU is Proudly Powered by 
                   <span className="underline">
                     <a href={footerData.theme_author.url} rel="noreferrer" target="_blank"  className={`ms-1 ${type == 'purple-red' ? 'gr-purple-red-text':''} ${type == 'purple-light' ? 'gr-blue2-text':''}`}>{ footerData.theme_author.name }</a>
                   </span>

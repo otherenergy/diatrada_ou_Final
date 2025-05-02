@@ -129,7 +129,7 @@ const Testimonials = () => {
                     <div className="img">
                       <img src={client} alt="" />
                       <Split>
-                        <a href="#0" className="link" data-splitting>www.cleanstarenergyusa.com</a>
+                        <a href="#0" className="link" data-splitting>www.diatradaou.com</a>
                       </Split>
                     </div>
                   </div>

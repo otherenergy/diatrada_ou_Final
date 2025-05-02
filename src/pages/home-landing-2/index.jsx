@@ -34,7 +34,7 @@ const HomeLanding2 = () => {
   return (
     <>
       <Head>
-        <title>Ravo - Modern Agancy</title>
+        <title>Diatrada OU</title>
       </Head>
 
       <MainLightLayout defaultTheme={'dark'} defaultLogoTheme="dark">

@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
     return ( 
     <>
         <Head>
-        <title> Clean Star Energy llc </title> 
+        <title> Diatrada OU </title> 
         <meta name = "viewport"
         content = "width=device-width, initial-scale=1, maximum-scale=1" />
         </Head>

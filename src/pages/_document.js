@@ -18,10 +18,10 @@ class MyDocument extends Document {
             content = "IE=edge" / >
             <
             meta name = "keywords"
-            content = "Clean Star Energy llc" / >
+            content = "Diatrada OU" / >
             <
             meta name = "description"
-            content = "Clean Star Energy llc" / >
+            content = "Diatrada OU" / >
             <
             meta name = "author"
             content = "" / >

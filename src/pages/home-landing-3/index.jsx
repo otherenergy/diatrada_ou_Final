@@ -35,7 +35,7 @@ const HomeLanding3 = () => {
   return (
     <>
       <Head>
-        <title>Clean Star Energy LLC</title>
+        <title>Diatrada OU</title>
       </Head>
 
       <MainLightLayout defaultLogoTheme="dark">

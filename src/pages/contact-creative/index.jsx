@@ -28,7 +28,7 @@ const ContactCreative = () => {
   return (
     <>
       <Head>
-        <title>CleanStarEnergyLLC</title>
+        <title>DiatradaOU</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

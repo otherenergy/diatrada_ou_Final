@@ -17,7 +17,7 @@ const SingleBlog = ({ blog, direction }) => {
           <div className="full-width">
             <div className="cont">
               <div className="date text-u fz-13 fw-500 opacity-7 mb-10">
-                <span>14 sep 2021</span>
+                <span>2025</span>
               </div>
               <div className="title">
                 <h5 className="fw-600 mb-10"><Link href="/blog-post"><a>{ blog.title }</a></Link></h5>

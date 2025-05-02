@@ -11,7 +11,7 @@ const Clients = ({ slides }) => {
           <div className="col-sm-2 sm-hide">
             <div className="item flex">
               <div className="icon-flex mr-20">
-                <h2 className="fz-40">42<span></span></h2>
+                <h2 className="fz-40">15<span></span></h2>
               </div>
               <div className="cont-flex valign">
                 <div>

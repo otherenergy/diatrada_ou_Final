@@ -41,9 +41,9 @@ const Footer = ({ hideTop }) => {
             <div className="col-md-9">
               <div className="copyrights d-flex justify-content-end">
                 <p>
-                  © 2022 Ravo is Proudly Powered by
+                  © 2025 Diatrada is Proudly Powered by
                   <span className="underline">
-                    <a href="https://themeforest.net/user/themescamp" rel="noreferrer" target="_blank" className="yellow-green-color ms-1">ThemesCamp</a>
+                    <a href="#" rel="noreferrer" target="_blank" className="yellow-green-color ms-1">DiatradaOU</a>
                   </span>
                 </p>
               </div>

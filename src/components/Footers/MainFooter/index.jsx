@@ -52,7 +52,7 @@ const Footer = ({ footerClass, footerBg, business, creative }) => {
                 </Link>
               </div>
               <div className="text">
-                <p>Stay ahead in the rapidly evolving world and Benefit from our team with extensive experience and expertise</p>
+                <p>Always be ready and prepare for changes and the advancements of tech and involved every second</p>
               </div>
               <div className="social circle-bord mt-30">
                 <ul className="rest horizontal-link">
@@ -148,7 +148,7 @@ const Footer = ({ footerClass, footerBg, business, creative }) => {
             <div className="col-lg-6">
               <div className="copyrights d-flex justify-content-end">
                 <p className="fz-13">
-                © 2025 Clean Star Energy llc is Proudly Powered by 
+                © 2025 Diatrada OU is Proudly Powered by 
                   <span className="underline">
                     <a href={footerData.theme_author.url} rel="noreferrer" target="_blank" className={`${business ? 'gr-green-text':creative ? '':'gr-purple-red-text'} ms-1`}>{ footerData.theme_author.name }</a>
                   </span>

@@ -54,7 +54,7 @@ const Navbar = ({ navbarRef, theme, logoTheme }) => {
                 Home
               </span>
               <ul className="dropdown-menu">
-                <li><Link href="/home-landing-3"><a className="dropdown-item">Home</a></Link></li>
+                <li><Link href="/home-landing-2"><a className="dropdown-item">Home</a></Link></li>
               </ul>
             </li>
             
@@ -72,7 +72,7 @@ const Navbar = ({ navbarRef, theme, logoTheme }) => {
               Services
               </span>
               <ul className="dropdown-menu">
-                <li><Link href="/services-business"><a className="dropdown-item">Services</a></Link></li>
+                <li><Link href="/services-creative"><a className="dropdown-item">Services</a></Link></li>
               </ul>
             </li>
 
