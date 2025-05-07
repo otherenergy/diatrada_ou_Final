@@ -34,7 +34,7 @@ const HomeBusiness1 = () => {
   return (
     <>
       <Head>
-        <title>Ravo - Business Startup</title>
+        <title>DiatradaOU - Home 3</title>
       </Head>
 
       <MainLightLayout>

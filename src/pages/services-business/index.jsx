@@ -33,7 +33,7 @@ const ServicesBusiness = () => {
   return (
     <>
       <Head>
-        <title>Ravo - Services Business</title>
+        <title>DiatradaOU - Services Business</title>
       </Head>
 
       <MainLightLayout>

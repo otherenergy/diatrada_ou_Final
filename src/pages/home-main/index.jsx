@@ -38,7 +38,7 @@ const HomeMain = () => {
   return (
     <>
       <Head>
-        <title>Ravo - Home Main</title>
+        <title>DiatradaOU - Home 0</title>
       </Head>
 
       <MainLightLayout>

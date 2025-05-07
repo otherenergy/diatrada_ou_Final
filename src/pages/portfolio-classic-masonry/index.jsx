@@ -26,7 +26,7 @@ const PortfolioClassicMasonry = () => {
   return (
     <>
       <Head>
-        <title>Ravo - Portfolio Classic | Masonry</title>
+        <title>DiatradaOU - Portfolio | Masonry</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

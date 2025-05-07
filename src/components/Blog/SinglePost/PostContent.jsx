@@ -50,7 +50,7 @@ const PostContent = ({ post_meta }) => {
             <h6 className="fz-20">
               <span>Increase your site traffic and gain new customers with a beautiful and
                 functional blog.</span>
-              <span className="fz-12 text-u ls2 gr-purple-red-text mt-20"> - Ravo Universe</span>
+              <span className="fz-12 text-u ls2 gr-purple-red-text mt-20"> DiatradaOU</span>
             </h6>
           </div>
 
@@ -113,7 +113,7 @@ const PostContent = ({ post_meta }) => {
               </div>
               <div>
                 <Link href="/blog-grid-clean"><a>Tech</a></Link>
-                <Link href="/blog-grid-clean"><a>Ravo</a></Link>
+                <Link href="/blog-grid-clean"><a>DiatradaOU</a></Link>
               </div>
             </div>
           </div>

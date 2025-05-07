@@ -26,7 +26,7 @@ const PortfolioColorfulMasonry = () => {
   return (
     <>
       <Head>
-        <title>Ravo - Portfolio Colorful | Masonry</title>
+        <title>DiatradaOU - Portfolio Colorful 4</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

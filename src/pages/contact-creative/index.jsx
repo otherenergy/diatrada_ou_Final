@@ -28,7 +28,7 @@ const ContactCreative = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU</title>
+        <title>DiatradaOU Contact US</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

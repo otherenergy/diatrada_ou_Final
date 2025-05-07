@@ -33,7 +33,7 @@ const AboutCorporate = () => {
   return (
     <>
       <Head>
-        <title>Ravo - About Corporate</title>
+        <title>DiatradaOU - About</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

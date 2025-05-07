@@ -30,7 +30,7 @@ const ProjectDetails = () => {
   return (
     <>
       <Head>
-        <title>Ravo - Project Details</title>
+        <title>DiatradaOU - Project Details</title>
       </Head>
 
       <MainLightLayout>

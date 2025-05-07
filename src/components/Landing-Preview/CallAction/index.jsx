@@ -11,7 +11,7 @@ const CallToAction = () => {
               <h3 className="num"><span className="gr">3000<span className="thin">+</span></span></h3>
               <h6 className="sub-title inline gr-sunrise-text">Licenses sold and counting</h6>
               <h2>Let’s Start Your Business Today!</h2>
-              <p>Create innovative website today. Purchase Ravo Template now!</p>
+              <p>Purchase DiatradaOU Template now!</p>
               <Link href="#0">
                 <a className="butn butn-md gr-sunset-bg text-light radius-30 mt-40">
                   <span className="text slide-up">Purchase Now</span>

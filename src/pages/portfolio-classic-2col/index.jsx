@@ -26,7 +26,7 @@ const PortfolioClassicTwoCols = () => {
   return (
     <>
       <Head>
-        <title>Ravo - Portfolio Classic | Two column</title>
+        <title>DiatradaOU - Portfolio | Two column</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

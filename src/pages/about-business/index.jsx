@@ -32,7 +32,7 @@ const AboutBusiness = () => {
   return (
     <>
       <Head>
-        <title>Ravo - About Business</title>
+        <title>DiatradaOU - About</title>
       </Head>
 
       <MainLightLayout>

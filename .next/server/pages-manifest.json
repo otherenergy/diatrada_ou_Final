@@ -2,7 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/home-landing-2": "pages/home-landing-2.js",
-  "/services-creative": "pages/services-creative.js",
-  "/about-creative": "pages/about-creative.js"
+  "/": "pages/index.js",
+  "/home-landing-2": "pages/home-landing-2.js"
 }

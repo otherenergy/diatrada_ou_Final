@@ -34,7 +34,7 @@ const LandingPreview = () => {
   return (
     <>
       <Head>
-        <title>Ravo - Landing Preview</title>
+        <title>DiatradaOU - LP</title>
       </Head>
 
       <PreviewLayout>
