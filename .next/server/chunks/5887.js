@@ -41,7 +41,7 @@ class Split extends (react__WEBPACK_IMPORTED_MODULE_1___default().Component) {
 /***/ 2012:
 /***/ ((module) => {
 
-module.exports = JSON.parse('[{"id":1,"title":"Website & Mobile App Design","details":"Taken possession of my entire soul, like these sweet mornings of spring which i enjoy with my whole.","closed":false},{"id":2,"title":"Motion Graphics & Animation","details":"Taken possession of my entire soul, like these sweet mornings of spring which i enjoy with my whole.","closed":true},{"id":3,"title":"User Experience","details":"Taken possession of my entire soul, like these sweet mornings of spring which i enjoy with my whole.","closed":true}]');
+module.exports = JSON.parse('[{"id":1,"title":"Cloud Innovative Solutions","details":"Innovative Solutions that help you understand the intricacies of the crypto world.","closed":false},{"id":2,"title":"Solar Top Cloud Tools","details":"Blockchain Top Cloud Tools that help you utilize leading cloud platforms to optimize your solar energy projects.","closed":true},{"id":3,"title":"Blockchain Expert Consulting","details":"Expert Consulting in this future changing of seasoned professionals to offers you 24/7 full consulting support.","closed":true}]');
 
 /***/ })
 

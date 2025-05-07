@@ -151,7 +151,7 @@ const PostContent = ({ post_meta }) => {
               <a>
                 <span className="fz-12 text-u ls1 gr-purple-red-text mb-15"><i
                   className="pe-7s-angle-left"></i> Prev Post</span>
-                <h6 className="fw-600 fz-16">Ways to quickly traffic to <br /> your website.</h6>
+                <h6 className="fw-600 fz-16">Ways to quickly traffic to <br /> your company.</h6>
               </a>
             </Link>
           </div>

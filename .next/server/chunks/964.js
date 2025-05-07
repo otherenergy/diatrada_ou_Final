@@ -69,7 +69,7 @@ const Clients = ()=>{
                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                     className: "line-head mb-0 mt-80",
                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h6", {
-                        children: "+4000 Customers trust of us from 12 countries"
+                        children: "42 Clients trust our privacy and discretion in their projects with our help"
                     })
                 })
             ]

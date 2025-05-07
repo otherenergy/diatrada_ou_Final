@@ -8,7 +8,7 @@ const Clients = ({ pt }) => {
     <section className={`clients-carsouel section-padding ${pt ? 'pt-0':''}`}>
       <div className="container">
         <div className="line-head">
-          <h6>+4000 Customers trust of us from 12 countries</h6>
+          <h6>42 Clients trust our privacy and discretion in their projects with our help</h6>
         </div>
         <Swiper
           id="content-carousel-container-unq-4" 

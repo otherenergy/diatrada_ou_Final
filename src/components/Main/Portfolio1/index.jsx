@@ -41,7 +41,7 @@ const Portfolio = () => {
                 portfolios.map(portfolio => (
                   <SwiperSlide key={portfolio.id}>
                     <figure>
-                      <Link href="/project-details">
+                      <Link href="/#">
                         <a><img src={portfolio.image} alt="" /></a>
                       </Link>
                     </figure>
@@ -49,7 +49,7 @@ const Portfolio = () => {
                       <div className="info">
                         <span className="fz-13 opacity-7">{ portfolio.type }</span>
                         <h6 className="fw-600 mt-5">
-                          <Link href="/project-details">
+                          <Link href="/#">
                             <a>{ portfolio.title }</a>
                           </Link>
                         </h6>

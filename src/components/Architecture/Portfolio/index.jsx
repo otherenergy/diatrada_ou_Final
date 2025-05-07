@@ -50,7 +50,7 @@ const Portfolio = () => {
                   </div>
                   <div className="cont text-center mt-40">
                     <h6>
-                      <Link href="/project-details">
+                      <Link href="/#">
                         <a>{ portfolio.title }</a>
                       </Link>
                     </h6>

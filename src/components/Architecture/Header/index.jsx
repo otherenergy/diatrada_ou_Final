@@ -78,7 +78,7 @@ const Header = () => {
                           </div>
                           <div className="col-lg-3 offset-lg-1 valign">
                             <div className="explore">
-                              <Link href="/project-details">
+                              <Link href="/#">
                                 <a>Explore</a>
                               </Link>
                             </div>

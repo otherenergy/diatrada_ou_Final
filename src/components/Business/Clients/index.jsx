@@ -39,7 +39,7 @@ const Clients = () => {
           }
         </Swiper>
         <div className="line-head mb-0 mt-80">
-          <h6>+4000 Customers trust of us from 12 countries</h6>
+          <h6>42 Clients trust our privacy and discretion in their projects with our help</h6>
         </div>
       </div>
     </section>

@@ -49,7 +49,7 @@ const Blog = ({ grblue }) => {
                     </div>
                     <div className="title">
                       <h5 className="fw-700 fz-18">
-                        <Link href="/blog-post">
+                        <Link href="/#">
                           <a>{ blog.title }</a>
                         </Link>
                       </h5>

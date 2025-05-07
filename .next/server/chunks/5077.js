@@ -328,7 +328,7 @@ var jsx_runtime_ = __webpack_require__(997);
 var next_link = __webpack_require__(1664);
 var link_default = /*#__PURE__*/__webpack_require__.n(next_link);
 ;// CONCATENATED MODULE: ./src/data/main/blog2.json
-const blog2_namespaceObject = JSON.parse('[{"image":"img/blog/8.jpg","tag":"Trending","author":"Diatrada Group","date":"2025","title":"Discover how Flowbase can help you build better."},{"image":"img/blog/9.jpg","tag":"Trending","author":"Diatrada Group","date":"2025","title":"Customisation means you can totally the design."},{"image":"img/blog/10.jpg","tag":"Trending","author":"Diatrada Group","date":"2025","title":"Analytics to help understand customers."}]');
+const blog2_namespaceObject = JSON.parse('[{"image":"img/blog/8.jpg","tag":"Trending","author":"Diatrada Group","date":"2025","title":"Discover how We can help you with your technology investment projects in the most private and secure way.."},{"image":"img/blog/9.jpg","tag":"Trending","author":"Diatrada Group","date":"2025","title":"You will always have our support 24 hours a day."},{"image":"img/blog/10.jpg","tag":"Trending","author":"Diatrada Group","date":"2025","title":"Analytics to help understand your customers."}]');
 ;// CONCATENATED MODULE: ./src/components/Main/Blog2/index.jsx
 
 /* eslint-disable @next/next/no-img-element */ 
@@ -433,7 +433,7 @@ const Blog = ({ grblue  })=>{
                                                 children: /*#__PURE__*/ jsx_runtime_.jsx("h5", {
                                                     className: "fw-700 fz-18",
                                                     children: /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
-                                                        href: "/blog-post",
+                                                        href: "/#",
                                                         children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
                                                             children: blog.title
                                                         })

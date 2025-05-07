@@ -54,7 +54,7 @@ const Portfolio = () => {
                         </div>
                         <div className="info mt-20 text-center">
                           <h6 className="fw-600">
-                            <Link href="/project-details">
+                            <Link href="/#">
                               <a>{ slide.title }</a>
                             </Link>
                           </h6>

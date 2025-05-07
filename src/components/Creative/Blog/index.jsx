@@ -36,7 +36,7 @@ const Blog = () => {
                     </div>
                     <div className="title">
                       <h5>
-                        <Link href="/blog-post">
+                        <Link href="">
                           <a>{ blog.title }</a>
                         </Link>
                       </h5>

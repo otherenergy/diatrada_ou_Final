@@ -120,7 +120,7 @@ const Blog = ()=>{
                                                 className: "title",
                                                 children: /*#__PURE__*/ jsx_runtime_.jsx("h5", {
                                                     children: /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
-                                                        href: "/blog-post",
+                                                        href: "",
                                                         children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
                                                             children: blog.title
                                                         })
@@ -273,7 +273,7 @@ const Clients = ({ pt  })=>{
                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                     className: "line-head",
                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h6", {
-                        children: "+4000 Customers trust of us from 12 countries"
+                        children: "42 Clients trust our privacy and discretion in their projects with our help"
                     })
                 }),
                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(swiper_react__WEBPACK_IMPORTED_MODULE_1__.Swiper, {
