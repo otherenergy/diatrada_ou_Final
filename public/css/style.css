@@ -10728,7 +10728,7 @@ body.index-main .bg-gray {
     position: absolute;
     top: 0;
     right: 0;
-    height: 70%;
+    height: 60%;
     width: 50%;
     -webkit-transform: scale(1.1);
     -ms-transform: scale(1.1);
@@ -10795,8 +10795,8 @@ body.index-main .bg-gray {
     position: absolute;
     top: 0;
     right: 0;
-    height: 50%;
-    width: 30%;
+    height: 80%;
+    width: 50%;
     -webkit-transform: scale(1.1);
     -ms-transform: scale(1.1);
     transform: scale(1.1);
