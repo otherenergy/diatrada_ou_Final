@@ -49,40 +49,28 @@ const Navbar = ({ navbarRef, theme, logoTheme }) => {
 
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav">
-            <li className="nav-item dropdown" onMouseMove={dropdownHover} onMouseLeave={dropdownLeave}>
-              <span className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Home
-              </span>
-              <ul className="dropdown-menu">
-                <li><Link href="/home-landing-2"><a className="dropdown-item">Home</a></Link></li>
-              </ul>
+            <li className="nav-item dropdown">
+            <span className="nav-link dropdown-toggle" role="button" aria-expanded="false">
+              <Link href="/home-landing-2"><a>Home</a></Link>
+            </span>
             </li>
             
-            <li className="nav-item dropdown" onMouseMove={dropdownHover} onMouseLeave={dropdownLeave}>
-              <span className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              About
-              </span>
-              <ul className="dropdown-menu">
-                <li><Link href="/about-creative"><a className="dropdown-item">About</a></Link></li>
-              </ul>
+            <li className="nav-item dropdown">
+            <span className="nav-link dropdown-toggle" role="button" aria-expanded="false">
+              <Link href="/about-creative"><a>About</a></Link>
+            </span>
             </li>
             
-            <li className="nav-item dropdown" onMouseMove={dropdownHover} onMouseLeave={dropdownLeave}>
-              <span className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Services
-              </span>
-              <ul className="dropdown-menu">
-                <li><Link href="/services-creative"><a className="dropdown-item">Services</a></Link></li>
-              </ul>
+            <li className="nav-item dropdown">
+            <span className="nav-link dropdown-toggle" role="button" aria-expanded="false">
+              <Link href="/services-creative"><a>Services</a></Link>
+            </span>
             </li>
 
-            <li className="nav-item dropdown" onMouseMove={dropdownHover} onMouseLeave={dropdownLeave}>
-              <span className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Contact
-              </span>
-              <ul className="dropdown-menu">
-                <li><Link href="/contact-creative"><a className="dropdown-item">Contact</a></Link></li>
-              </ul>
+            <li className="nav-item dropdown">
+            <span className="nav-link dropdown-toggle" role="button" aria-expanded="false">
+              <Link href="/contact-creative"><a>Contact</a></Link>
+            </span>
             </li>
 
           </ul>

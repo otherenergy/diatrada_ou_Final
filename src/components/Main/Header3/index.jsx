@@ -18,9 +18,9 @@ const Header = () => {
           <div className="col-lg-6 valign">
             <div className="cont">
               <div className="sub-head radius mb-10">
-                <span>Amazing design services</span>
+                <span>Diatrada OU</span>
               </div>
-              <h1 className="fw-700">Blockchain with our data analytics is inevitable for your business.</h1>
+              <h1 className="fw-700">Blockchain with <br></br>data analytics for <br></br>your business.</h1>
               <p>Unlock the Future of Finance with Our Expert Electronic Money Licensing and Blockchain Solutions.</p>
 
               <div className="mt-40 flex">
@@ -33,7 +33,7 @@ const Header = () => {
                   </Link>
                 </div>
                 <div className="valign">
-                  <a href="https://youtu.be/AzwC6umvd1s" className="btn vid underline" onClick={openVideo}>
+                  <a href="https://youtu.be/" className="btn vid underline" onClick={openVideo}>
                     <span className="fw-500 fz-13">View Our Story</span>
                     <i className="fas fa-play fz-12 ml-5"></i>
                   </a>

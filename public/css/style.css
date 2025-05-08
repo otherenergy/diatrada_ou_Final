@@ -10355,7 +10355,14 @@ body.index-main .bg-gray {
     font-size: 16px !important;
   }
   header .img.half-abs {
-    display: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 70%;
+  width: 50%;
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
   }
   .arch-slider .parallax-slider .caption h1 {
     font-size: 40px;
@@ -10658,7 +10665,7 @@ body.index-main .bg-gray {
     bottom: 15px;
   }
   .navbar .logo {
-    width: 40px;
+    width: 50px;
   }
   .fw-700 {
     font-weight: 600 !important;
@@ -10717,6 +10724,16 @@ body.index-main .bg-gray {
   .hero-cr .img-exp .rotate-exp h6 {
     white-space: nowrap;
   }
+  header .img.half-abs {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 70%;
+    width: 50%;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+  }
   h6.mb-20 {
     margin-bottom: 10px !important;
   }
@@ -10774,6 +10791,16 @@ body.index-main .bg-gray {
     height: 220px;
     margin: 30px auto;
   }
+  header .img.half-abs {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 50%;
+    width: 30%;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    }
 }
 
 /* ====================== [ End Responsive ] ====================== */
