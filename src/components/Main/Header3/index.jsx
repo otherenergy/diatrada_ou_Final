@@ -18,9 +18,9 @@ const Header = () => {
           <div className="col-lg-6 valign">
             <div className="cont">
               <div className="sub-head radius mb-10">
-                <span>Diatrada OU</span>
+                <span>GRUPO DIATRADA OU</span>
               </div>
-              <h1 className="fw-700">Blockchain with <br></br>data analytics for <br></br>your business.</h1>
+              <h1 className="fw-700">Blockchain <br></br> With Data Analytics for <br></br>your Business.</h1>
               <p>Unlock the Future of Finance with Our Expert Electronic Money Licensing and Blockchain Solutions.</p>
 
               <div className="mt-40 flex">
