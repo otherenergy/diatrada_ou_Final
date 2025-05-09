@@ -18,10 +18,10 @@ const Header = () => {
           <div className="col-lg-6 valign">
             <div className="cont">
               <div className="sub-head radius mb-10">
-                <span>GRUPO DIATRADA OU</span>
+                <span>Web3 + Solar Energy</span>
               </div>
-              <h1 className="fw-700">Blockchain <br></br> With Data Analytics for <br></br>your Business.</h1>
-              <p>Unlock the Future of Finance with Our Expert Electronic Money Licensing and Blockchain Solutions.</p>
+              <h1 className="fw-700">Blockchain <br></br> with data analytics for your business</h1>
+              <p>Unlock the future of finance with our expert and electronic money licensing and blockchain solutions.</p>
 
               <div className="mt-40 flex">
                 <div>

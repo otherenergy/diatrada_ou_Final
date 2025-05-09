@@ -26,7 +26,7 @@ const PortfolioOverlayThreeCols = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - Portfolio Overlay 2</title>
+        <title>Diatrada OU - Portfolio Overlay 2</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

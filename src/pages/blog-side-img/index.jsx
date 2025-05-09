@@ -28,7 +28,7 @@ const BlogSideImg = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - Blog SI</title>
+        <title>Diatrada OU - Blog SI</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

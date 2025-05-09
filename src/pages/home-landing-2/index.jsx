@@ -37,7 +37,7 @@ const HomeLanding2 = () => {
         <title>Diatrada OU</title>
       </Head>
 
-      <MainLightLayout defaultTheme={'dark'} defaultLogoTheme="dark">
+      <MainLightLayout defaultTheme={'dark'} defaultLogoTheme="dark" defaultLogoTitle="logotitle">
         <StickyBar />
         <FixedSearch />
         <Header />

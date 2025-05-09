@@ -24,38 +24,38 @@ const ContactArchitecture = () => {
   const nav_links = [
     {
       name: "Home",
-      href: "/home-architecture"
+      href: ""
     },
     {
       name: "About",
-      href: "/home-architecture"
+      href: ""
     },
     {
       name: "Services",
-      href: "/home-architecture"
+      href: ""
     },
     {
       name: "Works",
-      href: "/home-architecture"
+      href: ""
     },
     {
       name: "testimonials",
-      href: "/home-architecture"
+      href: ""
     },
     {
       name: "Blog",
-      href: "/home-architecture"
+      href: ""
     },
     {
       name: "Contact",
-      href: "#0"
+      href: ""
     }
   ]
 
   return (
     <>
       <Head>
-        <title>DiatradaOU - Contact US</title>
+        <title>Diatrada OU - Contact US</title>
       </Head>
 
       <AppLayout type="architecture" links={nav_links}>

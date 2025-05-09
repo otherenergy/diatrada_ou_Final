@@ -33,9 +33,9 @@ const Section = () => {
               <div className="sub-head radius mb-20">
                 <span className="fz-12 ls2 text-u">Highly expertise</span>
               </div>
-              <h3 className="mb-20 fz-38 fw-700">Robust Legal Structure.</h3>
+              <h3 className="mb-20 fz-38 fw-700">Robust Legal Structure</h3>
               <p>
-              We help you build a solid legal foundation for your crypto ventures, ensuring compliance and peace of mind.
+              We help you build a solid legal foundation for your crypto ventures, ensuring compliance and peace of mind
               </p>
               <Link href="/contact-creative">
                 <a className="butn butn-md gr-purple2-bg text-light radius-30 mt-40">

@@ -28,13 +28,13 @@ const ContactCreative = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU Contact US</title>
+        <title>Diatrada OU Contact us</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">
         <StickyBar />
         <FixedSearch />
-        <Header title="Contact Us." />
+        <Header title="Contact us" />
         <main className="main-content">
           <Contact />
           <Footer footerClass="main-footer bg-gray-light" creative={true} />

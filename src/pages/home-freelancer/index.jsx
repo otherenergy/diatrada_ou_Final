@@ -56,7 +56,7 @@ const HomeFreelancer = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - Home 5</title>
+        <title>Diatrada OU - Home 5</title>
       </Head>
 
       <AppLayout type="freelancer" links={nav_links} navTheme="dark">

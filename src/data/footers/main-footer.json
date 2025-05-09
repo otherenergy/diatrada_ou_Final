@@ -6,37 +6,37 @@
     },
     "links": [{
             "title": "Company",
-            "url": "/#"
+            "url": ""
         },
         {
             "title": "Team",
-            "url": "/#"
+            "url": ""
         },
         {
             "title": "Services",
-            "url": "/#"
+            "url": ""
         },
         {
             "title": "Products",
-            "url": "/#"
+            "url": ""
         }
     ],
     "recent_posts": [{
-            "url": "/#",
+            "url": "",
             "image": "img/blog/c3.jpg",
             "title": "How to check the website before releasing it?"
         },
         {
-            "url": "/#",
+            "url": "",
             "image": "img/blog/c1.jpg",
             "title": "How to check the website before releasing it?"
         }
     ],
     "address": "Estonia - 11314 Kesklinna linnaosa, Tallinn",
     "email": "admin@diatradaou.com",
-    "phone": "+34611867387",
+    "phone": "+34-611867387",
     "theme_author": {
-        "name": "DiatradaOU",
+        "name": "Diatrada OU",
         "url": "https://www.diatradaou.com/"
     }
 }

@@ -9,8 +9,8 @@ const Footer = () => {
           <div className="col-lg-9">
             <div>
               <div className="text md-mb50">
-                <h2>Let&lsquo;s join to our community.</h2>
-                <p>Are you an artist or NFT project creator? <br /> Get in touch with us to get your content on nfts DiatradaOU.</p>
+                <h2>Let&lsquo;s join to our community</h2>
+                <p>Are you an artist or NFT project creator? <br /> Get in touch with us to get your content on nfts Diatrada OU</p>
                 <div className="users-imgs flex">
                   <div>
                     <div className="simg1">

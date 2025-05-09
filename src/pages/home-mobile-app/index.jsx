@@ -57,7 +57,7 @@ const HomeMobileApp = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - Mobile App</title>
+        <title>Diatrada OU - Mobile App</title>
       </Head>
 
       <AppLayout type="mobile-app" links={nav_links}>

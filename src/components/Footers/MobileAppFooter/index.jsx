@@ -10,10 +10,10 @@ const Footer = () => {
             <div className="col-lg-5 valign">
               <div className="cont pb-80">
                 <div className="fz-12 ls2 text-u mb-10">
-                  <span className="gr-orange-text">Download DiatradaOU App</span>
+                  <span className="gr-orange-text">Download Diatrada OU App</span>
                 </div>
                 <h2 className="mb-20 fw-500">We available on store download now.</h2>
-                <p>Morbi sagittis hendrt nulla ultricies. Cras en diam ips elementum pretium hendrerit ultricies.</p>
+                <p>Morbi sagittis hendrt nulla ultricies. Cras en diam ips elementum pretium hendrerit ultricies</p>
 
                 <div className="download-button mt-40">
                   <a href="#0" className="butn butn-lg butn-rounded down-butn bg-white mr-10">

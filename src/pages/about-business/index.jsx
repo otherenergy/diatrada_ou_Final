@@ -32,7 +32,7 @@ const AboutBusiness = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - About</title>
+        <title>Diatrada OU - About</title>
       </Head>
 
       <MainLightLayout>

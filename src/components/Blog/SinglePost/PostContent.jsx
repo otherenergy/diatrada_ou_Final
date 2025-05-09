@@ -49,8 +49,8 @@ const PostContent = ({ post_meta }) => {
           <div className="post-qoute mt-50">
             <h6 className="fz-20">
               <span>Increase your site traffic and gain new customers with a beautiful and
-                functional blog.</span>
-              <span className="fz-12 text-u ls2 gr-purple-red-text mt-20"> DiatradaOU</span>
+                functional blog</span>
+              <span className="fz-12 text-u ls2 gr-purple-red-text mt-20"> Diatrada OU</span>
             </h6>
           </div>
 
@@ -70,14 +70,14 @@ const PostContent = ({ post_meta }) => {
           </div>
 
           <div className="title mb-30">
-            <h5 className="fw-600">Apple currently sells only one MacBook Air size.</h5>
+            <h5 className="fw-600">Apple currently sells only one MacBook Air size</h5>
           </div>
 
           <div className="text mb-20">
-            <p>A new report said earlier this week that Apple is working on a brand new laptop.
+            <p>A new report said earlier this week that Apple is working on a brand new laptop
               Apple plans to release a 15-inch MacBook Air in 2023, a first for the Air
               series. A trusted Apple insider with a proven track record confirmed that Apple
-              is working on the larger MacBook Air.</p>
+              is working on the larger MacBook Air</p>
           </div>
 
           <div className="unorder-list mb-30">
@@ -102,7 +102,7 @@ const PostContent = ({ post_meta }) => {
           <div className="text">
             <p>However, Apple might not include it in the Air series when it launches it. As for
               the notebook’s release date, the 15-inch MacBook isn’t coming soon. It’ll get a
-              late 2023 release at best, according to the new claims.</p>
+              late 2023 release at best, according to the new claims</p>
           </div>
         </div>
         <div className="info-area flex mt-20 pb-20">
@@ -113,7 +113,7 @@ const PostContent = ({ post_meta }) => {
               </div>
               <div>
                 <Link href="/blog-grid-clean"><a>Tech</a></Link>
-                <Link href="/blog-grid-clean"><a>DiatradaOU</a></Link>
+                <Link href="/blog-grid-clean"><a>Diatrada OU</a></Link>
               </div>
             </div>
           </div>

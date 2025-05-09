@@ -1,9 +1,10 @@
 {
-  "name": "DiatradaOU",
+  "name": "Diatrada OU",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "clean-build": "rm -rf .next && npm run build",
     "build": "chmod +x node_modules/.bin/next && next build",
     "start": "next start",
     "lint": "next lint"

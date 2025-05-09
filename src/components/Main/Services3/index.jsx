@@ -20,7 +20,7 @@ const Services = () => {
           </div>
           <div className="col-lg-6 valign">
             <div className="text">
-              <p>The most widely sought for agency in branding nowadays we design brand, digital experience that engage the right customers.</p>
+              <p>The most widely sought for agency in branding nowadays we design brand, digital experience that engage the right customers</p>
             </div>
           </div>
         </div>

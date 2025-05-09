@@ -26,7 +26,7 @@ const PortfolioColorfulMasonry = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - Portfolio Colorful 4</title>
+        <title>Diatrada OU - Portfolio Colorful 4</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

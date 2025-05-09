@@ -26,7 +26,7 @@ const PortfolioOverlayMasonry = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - Portfolio Overlay 5</title>
+        <title>Diatrada OU - Portfolio Overlay 5</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

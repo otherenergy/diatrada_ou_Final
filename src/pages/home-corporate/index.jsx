@@ -35,7 +35,7 @@ const HomeCorporate = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - Home 4</title>
+        <title>Diatrada OU - Home 4</title>
       </Head>
 
       <MainLightLayout>

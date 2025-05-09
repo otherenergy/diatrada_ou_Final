@@ -36,13 +36,13 @@ const AboutCreative = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - About</title>
+        <title>Diatrada OU - About</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">
         <StickyBar />
         <FixedSearch />
-        <Header title="About Us." />
+        <Header title="About Us" />
         <main className="main-content">
           <About />
           <Numbers />

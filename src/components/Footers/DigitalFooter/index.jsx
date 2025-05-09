@@ -21,7 +21,7 @@ const Footer = ({ footerClass, type }) => {
               <div className="text">
                 <h6 className="sub-title fw-400">Already interested!</h6>
                 <h4 className="fw-800">Don&lsquo;t wait and start now !</h4>
-                <p className="text-light">Tell us your vision, and we&lsquo;ll get in touch with next steps.</p>
+                <p className="text-light">Tell us your vision, and we&lsquo;ll get in touch with next steps</p>
               </div>
             </div>
             <div className="col-lg-5 valign">
@@ -46,7 +46,7 @@ const Footer = ({ footerClass, type }) => {
                 </a>
               </div>
               <div className="text">
-                <p>Always be ready and prepare for changes and the advancements of tech and involved every second.</p>
+                <p>Always be ready and prepare for changes and the advancements of tech and involved every second</p>
               </div>
               <div className="social circle-bord mt-30">
                 <ul className="rest horizontal-link">
@@ -130,7 +130,7 @@ const Footer = ({ footerClass, type }) => {
             <div className="col-lg-6">
               <div className="copyrights d-flex justify-content-end">
                 <p className="fz-13">
-                  © 2025 Diatrada OU is Proudly Powered by 
+                  © 2025 www.diatradaou.com is Proudly Powered by 
                   <span className="underline">
                     <a href={footerData.theme_author.url} rel="noreferrer" target="_blank"  className={`ms-1 ${type == 'purple-red' ? 'gr-purple-red-text':''} ${type == 'purple-light' ? 'gr-blue2-text':''}`}>{ footerData.theme_author.name }</a>
                   </span>

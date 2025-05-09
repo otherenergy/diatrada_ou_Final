@@ -26,7 +26,7 @@ const PortfolioOverlayFourCols = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - Portfolio Overlay 3</title>
+        <title>Diatrada OU - Portfolio Overlay 3</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

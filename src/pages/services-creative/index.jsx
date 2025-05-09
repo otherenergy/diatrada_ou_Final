@@ -34,13 +34,13 @@ const ServicesCreative = () => {
   return (
     <>
       <Head>
-        <title>Diatrada - Services Creative</title>
+        <title>Diatrada OU - Services</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">
         <StickyBar />
         <FixedSearch />
-        <Header title="Services." />
+        <Header title="Services" />
         <main className="main-content">
           <Services />
           <SecHalf />

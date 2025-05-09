@@ -6,19 +6,19 @@
     },
     "links": [{
             "title": "Company",
-            "url": "/about-creative"
+            "url": ""
         },
         {
             "title": "Team",
-            "url": "/about-business"
+            "url": ""
         },
         {
             "title": "Services",
-            "url": "/services-creative"
+            "url": ""
         },
         {
             "title": "Products",
-            "url": "/portfolio-classic-masonry"
+            "url": ""
         }
     ],
     "instagram_posts": [{
@@ -48,9 +48,9 @@
     ],
     "address": "Estonia - 11314 Kesklinna linnaosa, Tallinn",
     "email": "admin@diatradaou.com",
-    "phone": "+34611867387",
+    "phone": "+34-611867387",
     "theme_author": {
-        "name": "DiatradaOU",
+        "name": "Diatrada OU",
         "url": "https://www.diatradaou.com/"
     }
 }

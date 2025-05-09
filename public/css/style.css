@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: DiatradaOU
+    Theme Name: Diatrada OU
     Version: 1.0
 
 -----------------------------------------------------------------------------------*/
@@ -3830,7 +3830,11 @@ img.left {
 }
 
 .navbar .logo {
-  width: 70px;
+  width: 90px;
+}
+
+.navbar .logotitle {
+  width: 150px;
 }
 
 .navbar .search-area {

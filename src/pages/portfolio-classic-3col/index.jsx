@@ -26,7 +26,7 @@ const PortfolioClassicThreeCols = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - Portfolio | Three column</title>
+        <title>Diatrada OU - Portfolio | Three column</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

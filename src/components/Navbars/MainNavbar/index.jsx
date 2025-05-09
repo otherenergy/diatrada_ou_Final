@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from 'next/link';
 
-const Navbar = ({ navbarRef, theme, logoTheme }) => {
+const Navbar = ({ navbarRef, theme, logoTheme, logoTitle }) => {
   const dropdownHover = (e) => {
     const dropdownItem = e.target.tagName === 'SPAN' ? e.target.parentElement : e.target;
     const dropdownMenu = dropdownItem.querySelector('.dropdown-menu');
@@ -31,6 +31,7 @@ const Navbar = ({ navbarRef, theme, logoTheme }) => {
           <div className="logo">
             { logoTheme === 'dark' && <img src="img/logo-dark.png" alt="" /> }
             { logoTheme === 'light' && <img src="img/logo-light.png" alt="" /> }
+            { logoTitle === 'logotitle' && <img src="img/logo-title.png" alt="" className="logotitle"/> }
             { !logoTheme && <img src="img/logo-dark.png" alt="" /> }
           </div>
         </Link>

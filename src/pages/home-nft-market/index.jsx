@@ -57,7 +57,7 @@ const HomeNFTMarketplace = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - NFTs Marketplace</title>
+        <title>Diatrada OU - NFTs Marketplace</title>
       </Head>
 
       <AppLayout type="nft-market" links={nav_links}>

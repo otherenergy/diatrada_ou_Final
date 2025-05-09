@@ -31,7 +31,7 @@ const Footer = ({ hideTop }) => {
           <div className="row">
             <div className="col-md-3">
               <div className="logo">
-                <Link href="/landing-preview">
+                <Link href="">
                   <a>
                     <img src="img/logo-light.png" alt="" />
                   </a>
@@ -41,9 +41,9 @@ const Footer = ({ hideTop }) => {
             <div className="col-md-9">
               <div className="copyrights d-flex justify-content-end">
                 <p>
-                  © 2025 Diatrada is Proudly Powered by
+                  © 2025 www.diatradaOU.com is Proudly Powered by
                   <span className="underline">
-                    <a href="#" rel="noreferrer" target="_blank" className="yellow-green-color ms-1">DiatradaOU</a>
+                    <a href="#" rel="noreferrer" target="_blank" className="yellow-green-color ms-1">Diatrada OU</a>
                   </span>
                 </p>
               </div>

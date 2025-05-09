@@ -26,7 +26,7 @@ const PortfolioClassicMasonry = () => {
   return (
     <>
       <Head>
-        <title>DiatradaOU - Portfolio | Masonry</title>
+        <title>Diatrada OU - Portfolio | Masonry</title>
       </Head>
 
       <MainLightLayout defaultTheme="dark" defaultLogoTheme="dark">

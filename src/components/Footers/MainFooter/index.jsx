@@ -148,7 +148,7 @@ const Footer = ({ footerClass, footerBg, business, creative }) => {
             <div className="col-lg-6">
               <div className="copyrights d-flex justify-content-end">
                 <p className="fz-13">
-                © 2025 Diatrada OU is Proudly Powered by 
+                © 2025 www.diatradaou.com is Proudly Powered by 
                   <span className="underline">
                     <a href={footerData.theme_author.url} rel="noreferrer" target="_blank" className={`${business ? 'gr-green-text':creative ? '':'gr-purple-red-text'} ms-1`}>{ footerData.theme_author.name }</a>
                   </span>

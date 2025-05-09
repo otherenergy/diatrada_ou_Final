@@ -13,8 +13,8 @@ const CallToAction = () => {
         <div className="row justify-content-center">
           <div className="col-lg-10">
             <div className="text-center">
-              <h2 className="mb-5">Have a project in mind? Let&lsquo;s discuss.</h2>
-              <p>lead your business to success with DiatradaOU in less time.</p>
+              <h2 className="mb-5">Have a project in mind? Let&lsquo;s discuss</h2>
+              <p>lead your business to success with Diatrada OU in less time</p>
               <Link href="/contact-creative">
                 <a className="butn butn-md gr-purple-red-bg text-light mt-30">
                   <span className="text slide-up">Purchase Now</span>
