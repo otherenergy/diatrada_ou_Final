@@ -1,4 +1,5 @@
-[{
+[   
+    { 
         "image": "img/brands/01-brands.svg",
         "title": "https://www.diatradaou.com/"
     },
@@ -20,6 +21,50 @@
     },
     {
         "image": "img/brands/06-brands.svg",
+        "title": "https://www.diatradaou.com/"
+    },
+    { 
+        "image": "img/brands/07-brands.svg",
+        "title": "https://www.diatradaou.com/"
+    },
+    {
+        "image": "img/brands/08-brands.svg",
+        "title": "https://www.diatradaou.com/"
+    },
+    {
+        "image": "img/brands/09-brands.svg",
+        "title": "https://www.diatradaou.com/"
+    },
+    {
+        "image": "img/brands/10-brands.svg",
+        "title": "https://www.diatradaou.com/"
+    },
+    {
+        "image": "img/brands/11-brands.svg",
+        "title": "https://www.diatradaou.com/"
+    },
+    {
+        "image": "img/brands/12-brands.svg",
+        "title": "https://www.diatradaou.com/"
+    },
+    {
+        "image": "img/brands/13-brands.svg",
+        "title": "https://www.diatradaou.com/"
+    },
+    {
+        "image": "img/brands/14-brands.svg",
+        "title": "https://www.diatradaou.com/"
+    },
+    {
+        "image": "img/brands/15-brands.svg",
+        "title": "https://www.diatradaou.com/"
+    },
+    {
+        "image": "img/brands/16-brands.svg",
+        "title": "https://www.diatradaou.com/"
+    },
+    {
+        "image": "img/brands/17-brands.svg",
         "title": "https://www.diatradaou.com/"
     }
 ]
