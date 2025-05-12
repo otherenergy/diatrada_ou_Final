@@ -24,7 +24,7 @@ const About = () => {
               <div className="img2">
                 <img src="img/about/th3.jpg" alt="" />
                 <div className="play-button">
-                  <a href="https://youtu.be/AzwC6umvd1s" className="btn vid" onClick={openVideo}>
+                  <a href="https://youtu.be/" className="btn vid" onClick={openVideo}>
                     <svg width="100px" height="100px" viewBox="0 0 100 100" preserveAspectRatio="none">
                       <circle className="circle" cx="50" cy="50" r="48" stroke="white" strokeWidth="2" fill="none" />
                     </svg>

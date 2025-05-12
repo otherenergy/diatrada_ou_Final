@@ -28,7 +28,7 @@ const Header = () => {
                   </a>
                 </div>
                 <div>
-                  <a href="https://youtu.be/AzwC6umvd1s" className="btn-vid" onClick={openVideo}>
+                  <a href="https://youtu.be/" className="btn-vid" onClick={openVideo}>
                     <i className="fas fa-play"></i>
                   </a>
                 </div>
