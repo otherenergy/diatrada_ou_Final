@@ -12,7 +12,7 @@ const About = () => {
               <span className="sub-title">Our Vision</span>
               <h4 className="mb-20 fz-45 fw-700">{ aboutData.subtitle }</h4>
               <p>{ aboutData.text }</p>
-              <Link href="/services-creative">
+              <Link href="/diatrada-services">
                 <a className="butn butn-lg butn-icon-anim butn-flora butn-rounded mt-30">
                   <div className="flex">
                     <span className="valign icon-left anim-one">

@@ -43,7 +43,7 @@ const IntroOutBox = () => {
               </div>
 
               <div className="mt-40">
-                <Link href="/about-creative" >
+                <Link href="/diatrada-about" >
                   <a className="butn butn-md gr-purple-red-bg text-light radius-30">
                     <span className="text slide-up">About Company</span>
                     <span className="text slide-down">About Company</span>

@@ -32,16 +32,16 @@ const Footer = () => {
               <h5 className="title fw-600 fz-20 mb-30">About Us</h5>
               <ul className="cmp-links">
                 <li className="mb-10">
-                  <a href="about-creative.html">Company</a>
+                  <a href="#">Company</a>
                 </li>
                 <li className="mb-10">
-                  <a href="about-business.html">Team</a>
+                  <a href="#">Team</a>
                 </li>
                 <li className="mb-10">
-                  <a href="services-creative.html">Services</a>
+                  <a href="#">Services</a>
                 </li>
                 <li className="mb-10">
-                  <a href="portfolio-classic-masonry.html">Products</a>
+                  <a href="#">Products</a>
                 </li>
               </ul>
             </div>

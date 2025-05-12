@@ -21,7 +21,7 @@ const CallAction = () => {
           </div>
           <div className="col-lg-4 valign">
             <div className="d-flex justify-content-end full-width">
-              <Link href="/contact-creative">
+              <Link href="/diatrada-contact">
                 <a className="butn butn-lg butn-icon-anim butn-flora butn-rounded">
                   <div className="flex">
                     <span className="valign icon-left anim-one">

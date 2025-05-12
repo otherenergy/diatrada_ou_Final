@@ -27,7 +27,7 @@ const Services = () => {
                   <div className="cont-flex">
                     <h6 className="mb-10 fw-700">{ service.title }</h6>
                     <p className="fz-14">{ service.details }</p>
-                    <Link href="/contact-creative">
+                    <Link href="/diatrada-contact">
                       <a className="more-arow mt-20">
                         <Split>
                           <span className="sp-hover" data-splitting>Know more</span>

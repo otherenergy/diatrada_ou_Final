@@ -26,7 +26,7 @@ const Footer = ({ footerClass, type }) => {
             </div>
             <div className="col-lg-5 valign">
               <div className="call-button full-width d-flex justify-content-end">
-                <a href="contact-creative" className="butn butn-md bg-light radius-30">
+                <a href="diatrada-contact" className="butn butn-md bg-light radius-30">
                   <span className="text text-dark slide-up">Get Started</span>
                   <span className="text text-dark slide-down">Get Started</span>
                 </a>

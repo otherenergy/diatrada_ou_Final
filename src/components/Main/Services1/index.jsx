@@ -17,7 +17,7 @@ const Services = () => {
                 </div>
                 <div className="s-title valign ml-auto">
                   <h6>
-                    <Link href="/services-creative"><a>All Services</a></Link>
+                    <Link href="/diatrada-services"><a>All Services</a></Link>
                     <i className="icon fz-20 pe-7s-angle-right"></i>
                   </h6>
                 </div>

@@ -2,14 +2,6 @@ User-agent: *
 User-agent: googlebot
 User-agent: googlebot-Mobile
 User-agent: bingbot
-Disallow: /landing-preview/
 Disallow: /admin/
 Disallow: /img/
-Disallow: /mobile-app/
-Disallow: /restaurant/
-Disallow: /nft/
-Disallow: /freelancer/
-Disallow: /arch/
-Disallow: /project-details/
-
 Sitemap: https://www.diatradaou.com/sitemap.xml

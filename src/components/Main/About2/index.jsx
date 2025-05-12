@@ -46,7 +46,7 @@ const About = () => {
                   </div>
                   <div className="cont-flex valign">
                     <div>
-                      <span>Perfect <br /> Prodects</span>
+                      <span>Perfect <br /> Products</span>
                     </div>
                   </div>
                 </div>

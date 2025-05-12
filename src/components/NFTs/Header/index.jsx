@@ -22,7 +22,7 @@ const Header = () => {
               <h1>Discover, <br /> collect, and sell extraordinary NFTs</h1>
               <div className="mt-40 flex">
                 <div className="mr-30">
-                  <a href="contact-creative" data-scroll-nav="2" className="butn butn-md bg-light text-dark radius-5">
+                  <a href="diatrada-contact" data-scroll-nav="2" className="butn butn-md bg-light text-dark radius-5">
                     <span className="text slide-up">Get Started</span>
                     <span className="text slide-down">Get Started</span>
                   </a>

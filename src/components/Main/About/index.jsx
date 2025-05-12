@@ -59,7 +59,7 @@ const About = () => {
                 <li><span className="icon bg-gray mr-20"><i className="fas fa-check"></i></span>Our seasoned specialists offer top-notch professional advice</li>
               </ul>
 
-              <Link href="/about-creative">
+              <Link href="/diatrada-about">
                 <a className="butn butn-md gr-purple-red-bg text-light radius-30 mt-30">
                   <span className="text slide-up">About Us</span>
                   <span className="text slide-down">About Us</span>

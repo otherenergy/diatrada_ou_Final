@@ -9,62 +9,28 @@ class MyDocument extends Document {
     }
 
     render() {
-        return ( <
-            Html lang = "en" >
-            <
-            Head >
-            <
-            meta httpEquiv = "X-UA-Compatible"
-            content = "IE=edge" / >
-            <
-            meta name = "keywords"
-            content = "Diatrada OU" / >
-            <
-            meta name = "description"
-            content = "Diatrada OU" / >
-            <
-            meta name = "author"
-            content = "" / >
-            <
-            link rel = "shortcut icon"
-            href = "/img/favicon.ico" / >
-
-            <
-            link rel = "stylesheet"
-            href = "https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" / >
-            <
-            link rel = "stylesheet"
-            href = "https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" / >
-            <
-            link rel = "stylesheet"
-            href = "https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap" / >
-            <
-            link rel = "stylesheet"
-            href = "https://fonts.googleapis.com/css2?family=Akronim&display=swap" / >
-            <
-            link rel = "stylesheet"
-            href = "https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap" / >
-            <
-            link rel = "stylesheet"
-            href = "https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900&display=swap" / >
-            <
-            link rel = "stylesheet"
-            href = "https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;300;400;500;600;700;800;900&display=swap" / >
-            <
-            link rel = "stylesheet"
-            href = "https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800;900&display=swap" / >
-            <
-            /Head>
-
-            <
-            body >
-            <
-            Main / >
-            <
-            NextScript / >
-            <
-            /body> <
-            /Html>
+        return ( <Html lang = "en">
+            <Head>
+            <meta httpEquiv = "X-UA-Compatible" content = "IE=edge" />
+            <meta name = "keywords" content = "Diatrada OU" />
+            <meta name = "description" content = "Diatrada OU" />
+            <meta name = "author" content = "" />
+            <link rel = "shortcut icon" href = "/img/favicon.ico" />
+            <link rel = "canonical" href="https://diatradaou.com/diatrada" />
+            <link rel = "stylesheet" href = "https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" />
+            <link rel = "stylesheet" href = "https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+            <link rel = "stylesheet" href = "https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+            <link rel = "stylesheet" href = "https://fonts.googleapis.com/css2?family=Akronim&display=swap" />
+            <link rel = "stylesheet" href = "https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap" />
+            <link rel = "stylesheet" href = "https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900&display=swap" />
+            <link rel = "stylesheet" href = "https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+            <link rel = "stylesheet" href = "https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+            </Head>
+            <body >
+            <Main />
+            <NextScript />
+            </body> 
+            </Html>
         );
     }
 }

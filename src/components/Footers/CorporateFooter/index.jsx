@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="left-half">
               <h6 className="sub-title gr-sunrise-text">Stay Connected</h6>
               <h2 className="fz-30 fw-700 mb-30">Let’s build the next big thing together</h2>
-              <Link href="/contact-creative">
+              <Link href="/diatrada-contact">
                 <a className="butn butn-lg gr-sunrise-bg text-light radius-30">
                   <span className="text words chars splitting" data-splitting>Get In Touch</span>
                 </a>

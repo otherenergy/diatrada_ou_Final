@@ -37,7 +37,7 @@ const Section = () => {
               <p>
               We help you build a solid legal foundation for your crypto ventures, ensuring compliance and peace of mind
               </p>
-              <Link href="/contact-creative">
+              <Link href="/diatrada-contact">
                 <a className="butn butn-md gr-purple2-bg text-light radius-30 mt-40">
                   <span className="text slide-up">View More</span>
                   <span className="text slide-down">View More</span>

@@ -44,7 +44,7 @@ const Footer = () => {
           </div>
           <div className="col-lg-4 col-md-6 d-flex justify-content-end">
             <div className="clumn text-center">
-              <Link href="/contact-creative">
+              <Link href="/diatrada-contact">
                 <a className="butn butn-lg butn-light butn-bord">
                   <span>Make a Reservation</span>
                 </a>

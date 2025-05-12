@@ -98,7 +98,7 @@ const Header = () => {
               <p>Proven Expertise With a track record of success ensuring your venture is legally sound and technologically.</p>
               <div className="mt-40 flex">
                 <div>
-                  <Link href="/contact-creative">
+                  <Link href="/diatrada-contact">
                     <a className="butn butn-md gr-purple-red-bg text-light radius-30">
                       <span className="text slide-up">Our Services</span>
                       <span className="text slide-down">Our Services</span>

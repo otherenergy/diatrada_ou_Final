@@ -15,7 +15,7 @@ const CallToAction = () => {
             <div className="text-center">
               <h2 className="mb-5">Have a project in mind? Let&lsquo;s discuss</h2>
               <p>lead your business to success with Diatrada OU in less time</p>
-              <Link href="/contact-creative">
+              <Link href="/diatrada-contact">
                 <a className="butn butn-md gr-purple-red-bg text-light mt-30">
                   <span className="text slide-up">Purchase Now</span>
                   <span className="text slide-down">Purchase Now</span>

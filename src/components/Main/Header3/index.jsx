@@ -25,7 +25,7 @@ const Header = () => {
 
               <div className="mt-40 flex">
                 <div>
-                  <Link href="/services-creative">
+                  <Link href="/diatrada-services">
                     <a className="butn butn-md gr-purple2-bg text-light radius-30">
                       <span className="text slide-up">Our Services</span>
                       <span className="text slide-down">Our Services</span>

@@ -26,7 +26,7 @@ const Footer = ({ footerClass, footerBg, business, creative }) => {
                 </div>
                 <div className="col-lg-5 d-flex justify-content-end">
                   <div>
-                    <Link href="/contact-creative">
+                    <Link href="/diatrada-contact">
                       <a className="butn butn-md butn-rounded butn-light mt-30">
                         <span className="text">Get In Touch</span>
                       </a>

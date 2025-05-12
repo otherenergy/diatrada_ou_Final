@@ -41,7 +41,7 @@ const Blog = () => {
                         </Link>
                       </h5>
                     </div>
-                    <Link href="/services-creative">
+                    <Link href="/diatrada-services">
                       <a className="butn butn-inline butn-gr mt-20 opacity-9">
                         <span className="text">Continue Reading</span>
                         <span className="underline-gr aqua-bg"></span>
