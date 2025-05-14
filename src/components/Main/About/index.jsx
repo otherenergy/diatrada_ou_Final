@@ -76,7 +76,7 @@ const About = () => {
               channel="youtube"
               autoplay
               isOpen={isOpen}
-              videoId="AzwC6umvd1s"
+              videoId=""
               onClose={() => setOpen(false)}
             />
           )

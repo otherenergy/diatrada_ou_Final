@@ -5,9 +5,9 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/_oro0dNXSEpAyzlin9piD/_buildManifest.js",
-    "static/_oro0dNXSEpAyzlin9piD/_ssgManifest.js",
-    "static/_oro0dNXSEpAyzlin9piD/_middlewareManifest.js"
+    "static/uYy_KydK_SvG5Chq8b91E/_buildManifest.js",
+    "static/uYy_KydK_SvG5Chq8b91E/_ssgManifest.js",
+    "static/uYy_KydK_SvG5Chq8b91E/_middlewareManifest.js"
   ],
   "pages": {
     "/": [
@@ -37,7 +37,7 @@
       "static/chunks/352-ecc769531d051563.js",
       "static/chunks/953-7424ec569e5c2272.js",
       "static/css/1a48ba5498755747.css",
-      "static/chunks/pages/diatrada-d3b6daa9bbef8cc5.js"
+      "static/chunks/pages/diatrada-5b2f576a58f043b2.js"
     ],
     "/diatrada-about": [
       "static/chunks/webpack-69bfa6990bb9e155.js",
