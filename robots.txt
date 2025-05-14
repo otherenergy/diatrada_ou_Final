@@ -1,0 +1,7 @@
+User-agent: *
+User-agent: googlebot
+User-agent: googlebot-Mobile
+User-agent: bingbot
+Disallow: /admin/
+Disallow: /img/
+Sitemap: https://www.diatradaou.com/sitemap.xml

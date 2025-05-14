@@ -16,7 +16,7 @@ class MyDocument extends Document {
             <meta name = "description" content = "Diatrada OU" />
             <meta name = "author" content = "" />
             <link rel = "shortcut icon" href = "/img/favicon.ico" />
-            <link rel = "canonical" href="https://diatradaou.com/diatrada" />
+            <link rel = "canonical" href="https://www.diatradaou.com/diatrada"/>
             <link rel = "stylesheet" href = "https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" />
             <link rel = "stylesheet" href = "https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap" />
             <link rel = "stylesheet" href = "https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap" />
