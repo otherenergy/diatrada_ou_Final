@@ -33,7 +33,7 @@ const Header = () => {
                   </Link>
                 </div>
                 <div className="valign">
-                  <a href="https://youtu.be/" className="btn vid underline" onClick={openVideo}>
+                  <a href="#" className="btn vid underline" onClick={openVideo}>
                     <span className="fw-500 fz-13">View Our Story</span>
                     <i className="fas fa-play fz-12 ml-5"></i>
                   </a>
