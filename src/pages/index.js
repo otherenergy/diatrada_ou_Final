@@ -19,7 +19,7 @@ const Home = () => {
   useEffect(() => {
     router.replace('/diatrada')
   }, [])
-  return <div />
+  return <div>Loading...</div>
 }
 
 export default Home;

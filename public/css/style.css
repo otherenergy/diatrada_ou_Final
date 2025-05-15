@@ -106,8 +106,14 @@ body {
   overflow-x: hidden !important;
   font-family: 'Poppins', sans-serif;
   font-family: 'Noto Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff !important;
 }
 
+div:empty {
+  display: none !important;
+}
 .main-content {
   background: #fff;
   position: relative;
