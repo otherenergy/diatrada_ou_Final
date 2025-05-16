@@ -35,6 +35,7 @@ const DiaTrada = () => {
     <>
       <Head>
         <title>Diatrada OU</title>
+		<link rel="canonical" href="https://www.diatradaou.com"/>
       </Head>
 
       <MainLightLayout defaultTheme={'dark'} defaultLogoTheme="dark" defaultLogoTitle="logotitle">
