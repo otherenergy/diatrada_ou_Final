@@ -10003,6 +10003,7 @@ body.index-main .bg-gray {
   padding: 10px;
   margin-bottom: 20px;
   border: 1px solid green;
+  background-color: aquamarine;
 }
 
 .messages.error {

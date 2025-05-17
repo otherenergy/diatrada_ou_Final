@@ -2,8 +2,10 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/diatrada-about": "pages/diatrada-about.js",
-  "/": "pages/index.js",
-  "/diatrada-contact": "pages/diatrada-contact.js",
-  "/diatrada-services": "pages/diatrada-services.js"
+  "/diatrada-about": "pages/diatrada-about.html",
+  "/diatrada-contact": "pages/diatrada-contact.html",
+  "/diatrada-services": "pages/diatrada-services.html",
+  "/diatrada": "pages/diatrada.html",
+  "/": "pages/index.html",
+  "/404": "pages/404.html"
 }
