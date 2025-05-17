@@ -1,6 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from 'next/link';
 import { Swiper, SwiperSlide } from 'swiper/react';
+import { Autoplay, Pagination, Navigation } from 'swiper';
 import portfolios from "../../../data/main/portfolio3.json";
 
 const Portfolio = () => {
@@ -18,7 +19,7 @@ const Portfolio = () => {
           </div>
           <div className="col-lg-6 valign">
             <div className="text">
-              <p>The most widely sought for agency in branding nowadays we design brand, digital experience that engage the right customers</p>
+              <p>We are a multicultural team open to research and attentive to technological changes, to help you with your projects.</p>
             </div>
           </div>
         </div>
@@ -29,6 +30,16 @@ const Portfolio = () => {
               <Swiper
                 spaceBetween={50}
                 slidesPerView={3}
+                autoplay={{
+                  delay: 1000,
+                  disableOnInteraction: false,
+                }}
+                /* pagination={{
+                clickable: false,
+                }} */
+                navigation={true}
+                //modules={[Autoplay]}
+                modules={[Autoplay, Pagination, Navigation]}
                 loop={true}
                 speed={1000}
                 id="content-carousel-container-unq-3"

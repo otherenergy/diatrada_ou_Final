@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import { Swiper, SwiperSlide } from "swiper/react";
+import { Autoplay, Pagination, Navigation } from 'swiper';
 import Split from '../../Split';
 import clients from '../../../data/creative/clients.json';
 
@@ -8,10 +9,19 @@ const Clients = ({ pt }) => {
     <section className={`clients-carsouel section-padding ${pt ? 'pt-0':''}`}>
       <div className="container">
         <div className="line-head">
-          <h6>42 Clients trust our privacy and discretion in their projects with our help</h6>
+          <h6>26 Clients trust our privacy and discretion in their projects with our help</h6>
         </div>
         <Swiper
           id="content-carousel-container-unq-4" 
+          autoplay={{
+            delay: 1000,
+            disableOnInteraction: false,
+          }}
+          /* pagination={{
+          clickable: false,
+          }} */
+          // navigation={true}
+          modules={[Autoplay]}
           className="swiper-container"
           spaceBetween={0}
           slidesPerView={5}

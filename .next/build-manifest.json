@@ -5,9 +5,9 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/qKSQ9Zp8LyqCs1P1vmNZi/_buildManifest.js",
-    "static/qKSQ9Zp8LyqCs1P1vmNZi/_ssgManifest.js",
-    "static/qKSQ9Zp8LyqCs1P1vmNZi/_middlewareManifest.js"
+    "static/j5NG0e7DVjHB7gtTbomqN/_buildManifest.js",
+    "static/j5NG0e7DVjHB7gtTbomqN/_ssgManifest.js",
+    "static/j5NG0e7DVjHB7gtTbomqN/_middlewareManifest.js"
   ],
   "pages": {
     "/": [
@@ -15,10 +15,10 @@
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-f65e66e62fc5ca80.js",
       "static/chunks/664-41844e7ff48658f9.js",
-      "static/chunks/352-ecc769531d051563.js",
+      "static/chunks/352-0fb9fb53deb33760.js",
       "static/chunks/953-7424ec569e5c2272.js",
       "static/chunks/12-7b434ae5830329c6.js",
-      "static/chunks/545-18da2c0f349fa1eb.js",
+      "static/chunks/545-d9c0fadbc3f5a3e3.js",
       "static/css/1a48ba5498755747.css",
       "static/chunks/pages/index-309b81ceba892a6c.js"
     ],
@@ -40,10 +40,10 @@
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-f65e66e62fc5ca80.js",
       "static/chunks/664-41844e7ff48658f9.js",
-      "static/chunks/352-ecc769531d051563.js",
+      "static/chunks/352-0fb9fb53deb33760.js",
       "static/chunks/953-7424ec569e5c2272.js",
       "static/chunks/12-7b434ae5830329c6.js",
-      "static/chunks/545-18da2c0f349fa1eb.js",
+      "static/chunks/545-d9c0fadbc3f5a3e3.js",
       "static/css/1a48ba5498755747.css",
       "static/chunks/pages/diatrada-930c59818173fccd.js"
     ],
@@ -52,9 +52,9 @@
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-f65e66e62fc5ca80.js",
       "static/chunks/664-41844e7ff48658f9.js",
-      "static/chunks/352-ecc769531d051563.js",
+      "static/chunks/352-0fb9fb53deb33760.js",
       "static/chunks/12-7b434ae5830329c6.js",
-      "static/chunks/129-b4211ccb94346494.js",
+      "static/chunks/129-eeb19354a70832c0.js",
       "static/css/ab3b72437c6184c6.css",
       "static/chunks/pages/diatrada-about-119a4daf2145f1e3.js"
     ],
@@ -70,9 +70,9 @@
       "static/chunks/framework-5f4595e5518b5600.js",
       "static/chunks/main-f65e66e62fc5ca80.js",
       "static/chunks/664-41844e7ff48658f9.js",
-      "static/chunks/352-ecc769531d051563.js",
+      "static/chunks/352-0fb9fb53deb33760.js",
       "static/chunks/12-7b434ae5830329c6.js",
-      "static/chunks/129-b4211ccb94346494.js",
+      "static/chunks/129-eeb19354a70832c0.js",
       "static/css/a29a2e69e467ba90.css",
       "static/chunks/pages/diatrada-services-d65cc0fa28f1767d.js"
     ]
