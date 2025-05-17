@@ -35,7 +35,7 @@ const Blog = ({ grblue }) => {
                   <div className="img">
                     <img src={blog.image} alt="" />
                     <div className="tags">
-                      <Link href="/blog-grid-clean"><a>{ blog.tag }</a></Link>
+                      <Link href=""><a>{ blog.tag }</a></Link>
                     </div>
                   </div>
                   <div className="cont">
@@ -49,7 +49,7 @@ const Blog = ({ grblue }) => {
                     </div>
                     <div className="title">
                       <h5 className="fw-700 fz-18">
-                        <Link href="/#">
+                        <Link href="">
                           <a>{ blog.title }</a>
                         </Link>
                       </h5>

@@ -581,7 +581,7 @@ const Blog = ({ grblue  })=>{
                                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                                 className: "tags",
                                                 children: /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
-                                                    href: "/blog-grid-clean",
+                                                    href: "",
                                                     children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
                                                         children: blog.tag
                                                     })
@@ -615,7 +615,7 @@ const Blog = ({ grblue  })=>{
                                                 children: /*#__PURE__*/ jsx_runtime_.jsx("h5", {
                                                     className: "fw-700 fz-18",
                                                     children: /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
-                                                        href: "/#",
+                                                        href: "",
                                                         children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
                                                             children: blog.title
                                                         })
