@@ -14,7 +14,7 @@ const Clients = ({ pt }) => {
         <Swiper
           id="content-carousel-container-unq-4" 
           autoplay={{
-            delay: 1000,
+            delay: 500,
             disableOnInteraction: false,
           }}
           /* pagination={{

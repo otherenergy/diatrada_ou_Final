@@ -25,7 +25,7 @@ const Clients = ({ slides }) => {
             <Swiper 
               id="content-carousel-container-unq-2"
               autoplay={{
-                delay: 1000,
+                delay: 500,
                 disableOnInteraction: false,
               }}
               /* pagination={{

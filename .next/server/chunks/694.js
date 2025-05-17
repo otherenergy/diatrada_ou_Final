@@ -702,7 +702,7 @@ const Clients = ({ slides  })=>{
                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(swiper_react__WEBPACK_IMPORTED_MODULE_1__.Swiper, {
                             id: "content-carousel-container-unq-2",
                             autoplay: {
-                                delay: 1000,
+                                delay: 500,
                                 disableOnInteraction: false
                             },
                             /* pagination={{
