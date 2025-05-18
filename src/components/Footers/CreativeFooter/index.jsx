@@ -70,7 +70,7 @@ const Footer = () => {
                       <img src="img/blog/2.jpg" alt="" />
                     </div>
                     <div className="cont">
-                      <h6 className="fz-16 line-height-28">How to check the website before releasing it?</h6>
+                      <h6 className="fz-16 line-height-28">Blockchain Top Cloud Tools that help you utilize leading cloud platforms to optimize your solar energy projects.</h6>
                     </div>
                   </a>
                 </li>

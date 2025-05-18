@@ -3,30 +3,40 @@
     "id": 1,
     "image": "img/works/3d/1.jpg",
     "type": "Affordable Investment",
-    "title": "Affordable Investment"
+    "title": "Affordable Investment",
+    "author": "Diatrada Group",
+    "date": "2025"
   },
   {
     "id": 2,
     "image": "img/works/3d/13.jpg",
     "type": "Innovation & Efficiency",
-    "title": "Innovation & Efficiency"
+    "title": "Innovation & Efficiency",
+    "author": "Diatrada Group",
+    "date": "2025"
   },
   {
     "id": 3,
     "image": "img/works/3d/14.jpg",
     "type": "Mining Cryptocurrencies",
-    "title": "Mining Cryptocurrencies"
+    "title": "Mining Cryptocurrencies",
+    "author": "Diatrada Group",
+    "date": "2025"
   },
   {
     "id": 4,
     "image": "img/works/3d/12.jpg",
     "type": "Solar Energy Project",
-    "title": "Solar Energy Project"
+    "title": "Solar Energy Project",
+    "author": "Diatrada Group",
+    "date": "2025"
   },
   {
     "id": 5,
     "image": "img/works/3d/2.jpg",
     "type": "Expert Guidance",
-    "title": "Expert Guidance"
+    "title": "Expert Guidance",
+    "author": "Diatrada Group",
+    "date": "2025"
   }
 ]

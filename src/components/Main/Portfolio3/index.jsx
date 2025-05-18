@@ -63,14 +63,26 @@ const Portfolio = () => {
                         <div className="img">
                           <img src={slide.image} alt="" />
                         </div>
+                        
+                        <div className="cont">
+                        <div className="info">
+                            <div className="author">
+                                <span>{ slide.author }</span>
+                            </div>
+                            <div className="date">
+                                <span className="fw-800 gr-purple-red-text inline">{ slide.date }</span>
+                            </div>
+                        </div>
+                        
                         <div className="info mt-20 text-center">
                           <h6 className="fw-600">
                             <Link href="/#">
-                              <a>{ slide.title }</a>
+                              <a className="fw-800 gr-purple-red-text inline">{ slide.title }</a>
                             </Link>
                           </h6>
                           <span className="tag"><a href="#0">{ slide.type }</a></span>
                         </div>
+                      </div>
                       </div>
                     </SwiperSlide>
                   ))

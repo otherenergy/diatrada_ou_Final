@@ -20,7 +20,7 @@ const Blog = ({ grblue }) => {
           <div className="col-md-5 justify-content-end valign">
             <div className="s-title valign ml-auto">
               <h6>
-                <a href="blog-grid-modern.html">Read all news</a>
+                <a href="">Read all news</a>
                 <i className="icon fz-20 pe-7s-angle-right"></i>
               </h6>
             </div>
@@ -35,7 +35,9 @@ const Blog = ({ grblue }) => {
                   <div className="img">
                     <img src={blog.image} alt="" />
                     <div className="tags">
-                      <Link href=""><a>{ blog.tag }</a></Link>
+                      <Link href="">
+                      <a>{ blog.tag }</a>
+                      </Link>
                     </div>
                   </div>
                   <div className="cont">

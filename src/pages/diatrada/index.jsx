@@ -15,6 +15,9 @@ import Section from '../../components/Main/Section2';
 import Testimonials from '../../components/Main/Testimonials3';
 import Blog from '../../components/Main/Blog2';
 import Footer from "../../components/Footers/DigitalFooter";
+import TetherChart from "../../components/TetherChart";
+import MultiCriptoChart from "../../components/MultiCriptoChart";
+// import MultiCriptoChart2 from "../../components/MultiCriptoChart2";
 
 const DiaTrada = () => {
   useEffect(() => {
@@ -48,6 +51,21 @@ const DiaTrada = () => {
         <Portfolio />
         <Section />
         <Testimonials />
+        {/* <div style={{ display: 'row', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem', padding: '2rem'}}>
+        <TetherChart />
+        <TetherChart />
+        </div>
+
+        <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '40px', padding: '40px'}}>
+          <div style={{ flex: 1 }}>
+            <TetherChart />
+          </div>
+          <div style={{ flex: 1 }}>
+            <TetherChart />
+          </div>
+        </div> */}
+        {/* <TetherChart /> */}
+        <MultiCriptoChart/>
         <Blog grblue={true} />
         <Footer footerClass="purple-light-bg position-re pb-40 mt-80" type="purple-light" />
       </MainLightLayout>

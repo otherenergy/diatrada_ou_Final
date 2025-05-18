@@ -9997,6 +9997,29 @@ body.index-main .bg-gray {
 }
 
 /* ====================== [ End Colors Skin  ] ====================== */
+/* ====================== [ Star Chart Cripto Message  ] ====================== */
+.chart-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.chart-container {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.error-message {
+    color: #dc3545;
+    padding: 1rem;
+    background: #ffe6e6;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+/* ====================== [ Stop Chart Cripto Message ] ====================== */
 /* ====================== [ Star Message Error  ] ====================== */
 .messages.success {
   color: green;
