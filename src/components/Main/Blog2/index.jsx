@@ -6,10 +6,10 @@ const Blog = ({ grblue }) => {
   return (
     <section className="blog-grid section-padding">
       <div className="container">
-        <div className="row mb-100">
+        <div className="row mb-50">
           <div className="col-md-7">
             <div className="simple-head">
-              <h6 className="sub-head radius mb-20">
+              <h6 className="sub-head radius mb-10">
                 <span className="fz-12 ls2 text-u">articles</span>
               </h6>
               <div>

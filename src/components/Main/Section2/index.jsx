@@ -29,11 +29,11 @@ const Section = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-6 valign">
-            <div className="content md-mb50">
-              <div className="sub-head radius mb-20">
+            <div className="content md-mb10">
+              <div className="sub-head radius mb-10">
                 <span className="fz-12 ls2 text-u">Highly expertise</span>
               </div>
-              <h3 className="mb-20 fz-38 fw-700">Robust Legal Structure</h3>
+              <h3 className="mb-10 fz-38 fw-700">Robust Legal Structure</h3>
               <p>
               We help you build a solid legal foundation for your crypto ventures, ensuring compliance and peace of mind
               </p>
@@ -48,7 +48,7 @@ const Section = () => {
           <div className="col-lg-6">
             <div className="content">
               <div className="accordion shadwo">
-                <h5 className="mb-40 text-center fw-600">Do you have any question ?</h5>
+                <h5 className="mb-20 text-center fw-600">Do you have any question ?</h5>
                 {
                   accordions.map((accordion, idx) => (
                     <div className={`item ${idx == 1 ? 'active':''} ${idx == accordion.length - 1 ? 'mb-0':''}`} id={`accordion-${idx}`} key={idx} onClick={openAccordion}>

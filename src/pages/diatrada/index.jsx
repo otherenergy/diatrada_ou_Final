@@ -50,7 +50,7 @@ const DiaTrada = () => {
         <About />
         <Portfolio />
         <Section />
-        <Testimonials />
+        {/* <Testimonials /> */}
         {/* <div style={{ display: 'row', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem', padding: '2rem'}}>
         <TetherChart />
         <TetherChart />

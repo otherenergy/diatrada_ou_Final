@@ -32,14 +32,14 @@ const About = () => {
           </div>
           <div className="col-lg-6 valign">
             <div className="content">
-              <div className="sub-head radius mb-20">
+              <div className="sub-head radius mb-10">
                 <span className="fz-12 ls2 text-u">Highly expertise</span>
               </div>
               <h3 className="mb-20 fz-38 fw-700">Diatrada Group.</h3>
               <p>
               Where we specialize in propelling your blockchain and cryptocurrency projects to new heights
               </p>
-              <div className="flex mt-50">
+              <div className="flex mt-30">
                 <div className="item flex full-width">
                   <div className="icon-flex mr-20">
                     <h3>320</h3>

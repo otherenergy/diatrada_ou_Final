@@ -7,9 +7,9 @@ const Services = () => {
   }, []);
 
   return (
-    <section className="services section-padding pt-60">
+    <section className="services section-padding pt-10">
       <div className="container">
-        <div className="row justify-content-center mb-100">
+        <div className="row justify-content-center mb-50">
           <div className="col-lg-6">
             <div className="simple-head md-mb10">
               <h6 className="sub-head radius mb-20">
@@ -29,8 +29,8 @@ const Services = () => {
             services.map((service, idx) => (
               <div className="col-lg-4" key={idx}>
                 <div className="item">
-                  <span className={`icon-font ${service.icon} fz-40 mb-30 ${service.color}-color bg-solid-color circle-100 rest`} data-solid-color={service.solidColor}></span>
-                  <h5 className="mb-15 fz-20">{ service.title }</h5>
+                  <span className={`icon-font ${service.icon} fz-40 mb-20 ${service.color}-color bg-solid-color circle-100 rest`} data-solid-color={service.solidColor}></span>
+                  <h5 className="mb-5 fz-20">{ service.title }</h5>
                   <p>{ service.details }</p>
                 </div>
               </div>

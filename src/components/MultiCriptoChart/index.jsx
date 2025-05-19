@@ -14,21 +14,21 @@ const MultiCriptoChart = () => {
     // Define your API endpoints
     const APIs = [
         {
-            id: 'USDT Tether Price Last 7 Days',
+            id: 'USDT Last 7 Days',
             url: 'https://api.coingecko.com/api/v3/coins/tether/market_chart?vs_currency=usd&days=7',
             color: 'rgb(75, 192, 192)',
             author: 'Diatrada Group',
             date: '2025'
         },
         {
-            id: 'Bitcoin Price Last 7 Days',
+            id: 'Bitcoin Last 7 Days',
             url: 'https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=7',
             color: 'rgb(255, 165, 0)',
             author: 'Diatrada Group',
             date: '2025'
         },
         {
-            id: 'Ethereum Price Last 7 Days',
+            id: 'Ethereum Last 7 Days',
             url: 'https://api.coingecko.com/api/v3/coins/ethereum/market_chart?vs_currency=usd&days=7',
             color: 'rgb(147, 51, 234)',
             author: 'Diatrada Group',
@@ -65,10 +65,11 @@ const MultiCriptoChart = () => {
                     }
 
                     newData[APIs[index].id] = {
+
                         labels: result.prices.map(entry => 
                             new Date(entry[0]).toLocaleDateString()),
                         datasets: [{
-                            label: `${APIs[index].id.toUpperCase()} Price in (USD)`,
+                            label: `${APIs[index].id.toUpperCase()} in (USD)`,
                             data: result.prices.map(entry => entry[1]),
                             borderColor: APIs[index].color,
                             tension: 0.1
@@ -93,10 +94,10 @@ const MultiCriptoChart = () => {
     return (
         <section className="blog-grid section-padding">
             <div className="container">
-                <div className="row mb-100">
+                <div className="row mb-80">
                     <div className="col-md-7">
                         <div className="simple-head">
-                            <h6 className="sub-head radius mb-20">
+                            <h6 className="sub-head radius mb-10">
                                 <span className="fz-12 ls2 text-u">Cripto News</span>
                             </h6>
                             <div>
